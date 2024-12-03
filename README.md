@@ -1,6 +1,6 @@
 # push_swap: Sorting with Two Stacks
 
-This **push_swap** project is my fourth project at Codam. It challenges students to implement a sorting algorithm using two stacks, stack A and stack B, with a limited set of operations. We were fully free to choose any algorithm, and I went with RADIX.
+This **push_swap** project is my fifth project at Codam. It challenges students to implement a sorting algorithm using two stacks, stack A and stack B, with a limited set of operations. We were fully free to choose any algorithm, and I went with RADIX.
 
 ## Project Highlights
 
